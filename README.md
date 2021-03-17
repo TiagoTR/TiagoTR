@@ -22,6 +22,7 @@ const profile = {
         HTML,
         CSS,
         JS,
+        Python,
         ES6+,
         ReactJS,
         ReactNative,
@@ -32,15 +33,14 @@ const profile = {
     interests: [
         "Web Development",
         "Mobile Development",
-        "Artificial Inteligence",
-        "Robotic"
+        "Artificial Intelligence",
+        "Robotic",
+        "Internet of Things"
     ]
 }
 ```
 
 <code>
-
-
   <div>
     <a href="https://github.com/TiagoTR">
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=TiagoTR&show_icons=true&include_all_commits=true&theme=vue-dark"/>
