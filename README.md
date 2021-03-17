@@ -25,8 +25,8 @@ const profile = {
         Python,
         ES6+,
         ReactJS,
-        ReactNative,
-        IonicFramework
+        React Native,
+        Ionic Framework
     ],
     database: ["MongoDb", "MySql", "SQLite"],
     devOps: ["Docker", "Git", "Github", "Gitlab"],
