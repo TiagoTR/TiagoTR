@@ -3,8 +3,8 @@
 ## Hi, I'm Tiago Rocha Martins 💻
 
 [![git](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github)](https://github.com/TiagoTR)
-``[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/renato-tomio/)
-[![insta](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renatotomio/)``
+[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin)]
+[![insta](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rocha_tiago_/)
 
 ---
 
@@ -19,22 +19,22 @@ const profile = {
         Javascript: ["Node.js"],
     ],
     frontend: [ 
-        HTML
-        CSS
-        JS
-        ES6+
-        React JS
-        React Native
-        Ionic Framework
+        HTML,
+        CSS,
+        JS,
+        ES6+,
+        ReactJS,
+        ReactNative,
+        IonicFramework
     ],
-    database: ["MongoDb", "MySql", "SQLite"]
+    database: ["MongoDb", "MySql", "SQLite"],
     devOps: ["Docker", "Git", "Github", "Gitlab"],
     interests: [
         "Web Development",
         "Mobile Development",
         "Artificial Inteligence",
         "Robotic"
-    ] 
+    ]
 }
 ```
 
@@ -43,10 +43,10 @@ const profile = {
 
   <div>
     <a href="https://github.com/TiagoTR">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RenatoShishido&show_icons=true&include_all_commits=true&theme=vue-dark"
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=TiagoRocha/TR&show_icons=true&include_all_commits=true&theme=vue-dark"/>
     </a>
     <a href="https://github.com/TiagoTR">
-       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RenatoShishido&layout=compact&langs_count=8&theme=vue-dark"/>
+       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TiagoRocha/TR=compact&langs_count=8&theme=vue-dark"/>
      </a>
   </div>
   <div>
