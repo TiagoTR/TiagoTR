@@ -46,7 +46,7 @@ const profile = {
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=TiagoTR&show_icons=true&include_all_commits=true&theme=vue-dark"/>
     </a>
     <a href="https://github.com/TiagoTR">
-       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TiagoTR=compact&langs_count=8&theme=vue-dark"/>
+       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TiagoTR&layout=compact&langs_count=8&theme=vue-dark"/>
      </a>
   </div>
   <div>
