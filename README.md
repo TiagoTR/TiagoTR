@@ -17,12 +17,12 @@ const profile = {
     age: 20,
     backend:  [
         Javascript: ["Node.js"],
+        Python,
     ],
     frontend: [ 
         HTML,
         CSS,
         JS,
-        Python,
         ES6+,
         ReactJS,
         React Native,
