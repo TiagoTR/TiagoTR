@@ -14,7 +14,7 @@
 ```javascript
 const profile = {
     name: "Tiago Rocha Martins", 
-    age: 21,
+    age: 22,
     backend:  [
         Javascript: ["Node.js"],
         Python,
