@@ -18,6 +18,7 @@ const profile = {
     backend:  [
         Javascript: ["Node.js"],
         Python,
+        ruby: ["Rails"],
     ],
     frontend: [ 
         HTML,
@@ -28,7 +29,7 @@ const profile = {
         React Native,
         Ionic Framework
     ],
-    database: ["MongoDb", "MySql", "SQLite"],
+    database: ["MongoDb", "MySql", "SQLite","PostgreSQL"],
     devOps: ["Docker", "Git", "Github", "Gitlab"],
     interests: [
         "Web Development",
