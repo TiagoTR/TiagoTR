@@ -18,7 +18,7 @@ const profile = {
     backend:  [
         Javascript: ["Node.js"],
         Python,
-        ruby: ["Rails"],
+        Ruby: ["Rails"],
     ],
     frontend: [ 
         HTML,
